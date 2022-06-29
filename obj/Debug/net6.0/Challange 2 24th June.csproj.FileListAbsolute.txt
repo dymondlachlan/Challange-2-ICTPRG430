@@ -1,0 +1,15 @@
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/bin/Debug/net6.0/Challange 2 24th June
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/bin/Debug/net6.0/Challange 2 24th June.deps.json
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/bin/Debug/net6.0/Challange 2 24th June.runtimeconfig.json
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/bin/Debug/net6.0/Challange 2 24th June.dll
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/bin/Debug/net6.0/Challange 2 24th June.pdb
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.csproj.AssemblyReference.cache
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.AssemblyInfoInputs.cache
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.AssemblyInfo.cs
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.csproj.CoreCompileInputs.cache
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.dll
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/refint/Challange 2 24th June.dll
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.pdb
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/Challange 2 24th June.genruntimeconfig.cache
+/Users/Lachy.Dymond/Onedrive/OneDrive - Swinburne University/ICTPRG430/Challange 2 24th June/obj/Debug/net6.0/ref/Challange 2 24th June.dll
